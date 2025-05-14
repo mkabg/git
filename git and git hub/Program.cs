@@ -11,6 +11,7 @@ namespace git_and_git_hub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.WriteLine("Hello world!");
             Console.WriteLine("hello mordechai");
             Console.WriteLine("check 1");
         }
