@@ -12,6 +12,7 @@ namespace git_and_git_hub
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("hello mordechai");
+            Console.WriteLine("check 1");
         }
     }
 }
