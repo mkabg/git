@@ -10,7 +10,7 @@ namespace git_and_git_hub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello!");
             Console.WriteLine("hello mordechai");
             Console.WriteLine("check 1");
         }
